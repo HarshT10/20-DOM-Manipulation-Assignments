@@ -1,0 +1,1 @@
+document.querySelector(".btn-primary").innerText = "Check out"
